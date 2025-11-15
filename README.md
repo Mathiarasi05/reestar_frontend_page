@@ -1,4 +1,4 @@
-# reestar_frontend_page
+# Reestar_frontend_page
 
 Reestar – Restaurant Landing Page:
 
@@ -41,8 +41,4 @@ Responsive image handling
 Basic front-end structure
 
 
-
----
-
-If you want, I can add installation steps, preview screenshots, or a live demo section too!
 
